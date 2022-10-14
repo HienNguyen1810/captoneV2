@@ -1117,7 +1117,7 @@ a.dropdown__item:hover::before{
 
 
 .history {
-  background: url(../img/blog/banner2.jpg) no-repeat center;
+  background: url('../img/blog/banner2.jpg') no-repeat center;
   background-size: cover;
   position: relative;
   z-index: 1;
