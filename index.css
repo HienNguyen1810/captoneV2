@@ -863,7 +863,7 @@ div#small-dialog iframe {
 }
 
 .contact__brebcum{
-  background-image: url('../img/blog/banner4.jpg');
+  background-image: url('./img/blog/banner4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1080,39 +1080,3 @@ a.dropdown__item:hover::before{
 .back-top:hover{
   transform: translateY(-10px);
 }
-
-/* Gallery */
-
-
-.gallery {
-  margin: 4rem 0;
-}
-
-.gallery .title {
-  font-size: 1.5rem;
-}
-
-.gallery .title h2 {
-  color:var(--dark);
-  font-weight: 600;
-}
-
-.gallery-content {
-  margin-top:2rem;
-}
-.gallery .container .gallery-item img {
-  width: 100%;
-  border-radius: 1rem;
-  position: relative;
-  overflow: hidden;
-
-}
-.gallery-item {
-  overflow: hidden;
-  margin-bottom:1rem;
-
-}
-
-
-
-

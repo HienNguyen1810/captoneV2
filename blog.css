@@ -863,7 +863,7 @@ div#small-dialog iframe {
 }
 
 .contact__brebcum{
-  background-image: url('../img/blog/banner4.jpg');
+  background-image: url('./img/blog/banner4.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
